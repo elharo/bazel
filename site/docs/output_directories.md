@@ -11,7 +11,7 @@ This page covers requirements and layout for output directories.
 
 Requirements for an output directory layout:
 
-* Don't collide if multiple users are building on the same box.
+* Doesn't collide if multiple users are building on the same box.
 * Support building in multiple workspaces at the same time.
 * Support building for multiple target configurations in the same workspace.
 * Don't collide with any other tools.
